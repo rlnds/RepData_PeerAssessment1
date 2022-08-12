@@ -1,14 +1,14 @@
-```{r echo=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
 ---
 title: "Reproducible Research: Peer Assessment 1"
 output: 
   html_document:
     keep_md: true
+    figure_keep: true
 ---
 
+```{r echo=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
 
 ## Loading and preprocessing the data
 Load the libraries:
